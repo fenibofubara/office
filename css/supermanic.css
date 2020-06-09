@@ -1,0 +1,177 @@
+
+/*-------SuperManic Custom Css Design-------------------*/
+.bg-green{
+	background-color: #356430;
+}
+
+.bg-green{
+	background-color: #5BC0DE;
+}
+.logo-resize{
+	width: 150px;
+	height: 150px
+}
+.text-large{
+	font-size:large;
+}
+
+.font-white{
+	color: #FFFFED !important;
+}
+.text-bolder{
+	font-weight: bolder!important;
+}
+.text-brown{
+	color: #A4852A;
+}
+
+.text-green{
+    color: #356430;
+}
+
+
+form.text-large-form label{
+	font-size:large;
+}
+
+.myContainer{
+	  position: relative;
+ /* min-height: 100vh;*/
+  height: 100%;
+}
+.myFooter{
+	  position: absolute;
+  bottom: 0;
+  width: 100%;
+ /* height: 2.5rem;*/
+
+}
+.main-container {
+ min-height: 100vh; /* will cover the 100% of viewport */
+ overflow: hidden;
+ display: block;
+ position: relative;
+ /*padding-bottom: 100px;*/ /* height of your footer */
+}
+
+form.text-white-label label{
+	color:#FFFFED;
+}
+
+div.tab-content-details h2{
+	color: white !important;
+}
+
+form.form-border-input-show input{
+	 border: 1px solid #FFFFED !important;
+}
+
+
+
+div.review-content-section label{
+		color:#FFFFED;
+}
+
+tr.office-bg th{
+	color:#FFFFED;
+	font-size: large;
+}
+.office-bg{
+	background-color: #152036;
+}
+
+.hr{
+	 border-top: 1px solid #FFFFED;
+}
+.office-pad-top{
+	padding-top: 20px
+}
+.office-pad-bottom{
+	padding-bottom: 20px;
+}
+
+.bottom-pad-button{
+	padding-bottom: 40px;
+}
+.bg-green{
+	background-color: #356430 !important;
+}
+.bg-brown{
+	background-color: #A4852A !important;
+}
+.box-height{
+	height: 180px;
+}
+.label-padding{
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-size: 15px;
+}
+.vcenter {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+}
+.circle-height{
+	height: 90px
+}
+.last-board{
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-size: 15px;
+}
+
+
+
+.boarder-white{
+	 border: 4px solid #FFFFED;
+}
+
+.settings{
+	background-color:#5CB85C;
+	padding: 10px;
+	color: #FFFFED;
+	border: 5px
+}
+
+.rejoin{
+	background-color:#5CB85C;
+	padding: 5px;
+	color: #FFFFED;
+}
+.upgrade{
+	background-color:#5BC0DE;
+	padding: 5px;
+	color: #FFFFED;
+}
+
+.btn-success-supermanic{
+	background-color: #346230;
+	color:#FFFFFF;
+}
+
+
+ @media (max-width: 767px) {
+ 
+    .hideAtSmall{
+      display: none;
+    }
+  }
+  
+@media (max-width: 1020px) {
+ 
+    .hideAtTablet{
+      display: none;
+    }
+  }
+  
+ @media (min-width: 768px) {
+
+    .hideAtBig{
+      display: none;
+    }
+ }
