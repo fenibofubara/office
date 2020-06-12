@@ -29,6 +29,9 @@
     color: #356430;
 }
 
+.smallTitle{
+	font-size: smaller !important;
+}
 
 form.text-large-form label{
 	font-size:large;
@@ -100,7 +103,7 @@ tr.office-bg th{
 	background-color: #A4852A !important;
 }
 .box-height{
-	height: 180px;
+	height: 110px;
 }
 .label-padding{
 	padding-left: 50px;
